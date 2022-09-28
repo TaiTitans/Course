@@ -157,3 +157,7 @@
 > 6. [Lý thuyết đồ thị | Toán rời rạc](https://bit.ly/3TqDccu)
 > 7. [Các bài toán kinh điển trong lập trình](https://bit.ly/3cr5YcD)
 > 8. [Note for professional](https://bit.ly/3pPJDZe)
+> 9. [2201 từ vựng IELTS](https://drive.google.com/drive/folders/13KmEfA9BIvwbyAHcyfXb_tUexxJ1pEjJ?utm_id=bt05)
+> 10. [Nhập môn trí tuệ nhân tạo](https://drive.google.com/drive/folders/1pPa_jyuKmnVVyOq7lvT4J5xWaXGQ52pz?usp=sharing)
+> 11. [Pháp luật đại cương](https://drive.google.com/drive/folders/1hMkvgJgQSkdxqyRE_ZGRLHiUv7fBAqj9?usp=sharing)
+> 12. [CNXH-KH](https://drive.google.com/drive/u/1/folders/1wt4FnuzxhqHPiwAIEYnXpdgDVzOrfVvD)

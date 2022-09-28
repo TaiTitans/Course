@@ -14,6 +14,9 @@
 > 3. [Cấu trúc dữ liệu và giải thuật kinh điển](https://drive.google.com/drive/folders/1YcUgdWSo9GjHm8j1644oPv5nUhj1tNKB?usp=sharing)
 > 4. [Cấu trúc dữ liệu và giải thuật-TDT](https://drive.google.com/drive/folders/1WHad8E9veuGBA4qItcOdZm1D5MG1ZiAr?usp=sharing)
 > 5. [Lập trình C++ hướng đối tượng](https://drive.google.com/drive/folders/1Rcv33dcrTuWPFz1yeHlxECNS4Crois4K?usp=sharing)
+> 6. [Bài tập lập trình C/C++](https://bit.ly/3KqvpYk)
+> 7. [Tài liệu CTDL & Giải thuật ](https://bit.ly/3RkCfAX)
+> 8. [Danh sách liên kết và cây nhị phân]( https://bit.ly/3QZvu7B)
 ## ![icons8_c_sharp_logo_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-50-44-icons8_c_sharp_logo_48px.png)Win-Form
 
 > 1. [Lập trình C# căn bản](https://drive.google.com/drive/folders/12_cCLYzOnvA0VIpoppJAFUQ6q3Rbfx4i?usp=sharing)
@@ -119,6 +122,8 @@
 > 1. [Làm chủ python trong 4 tuần](https://drive.google.com/drive/folders/1TfALAxoCC44ccSMvLblHz_QItFiCA020?usp=sharing)
 > 2. [Học Máy(Machine Learning) Và Ứng Dụng](https://drive.google.com/drive/folders/1Wel3tuwPg8mTywaTlLE6AHKaoeXWU4mw?usp=sharing)
 > 3. [Lập trình Matlab](https://drive.google.com/drive/folders/1aYvZdI6d2IEc3T31TmcTSiuP6y23LHaq?usp=sharing)
+> 4. [Trí tuệ nhân tạo và Học máy](https://bit.ly/3CCMVqk)
+> 5. [Tài liệu Python](https://bit.ly/3AUyg8P)
 ## ![icons8_hips_40px_1.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-00-05-icons8_hips_40px_1.png) Security
 
 > 1. [Khám phá thế giới hacker](https://drive.google.com/drive/folders/1Ptk2KHB4uNTW0a_KUrux9Ue17T_JVeWM?usp=sharing)
@@ -149,3 +154,6 @@
 > 3. [Giải tích 2](https://drive.google.com/drive/folders/1aeb1qNgoSmhFM4cbleMvc_MxUO8vxI1H?usp=sharing)
 > 4. [Xác suất thống kê](https://drive.google.com/drive/folders/1QkICJe1ZUCZFGgAPCkGcw_ekp6jQSq-8?usp=sharing)
 > 5. [Mathematica Cơ bản](https://drive.google.com/drive/folders/1q4DQnx3lt5sQKMMjHvwZd0DcV5uug1-J?usp=sharing)
+> 6. [Lý thuyết đồ thị | Toán rời rạc](https://bit.ly/3TqDccu)
+> 7. [Các bài toán kinh điển trong lập trình](https://bit.ly/3cr5YcD)
+> 8. [Note for professional](https://bit.ly/3pPJDZe)

@@ -147,7 +147,7 @@
 > 4. [Học Excel ứng dụng trong thực tiễn chuyên sâu - Google Drive](https://drive.google.com/drive/folders/1TzcdDb4jEAN6hVTNoHobBoitIVhe10mx?usp=sharing)
 > 5. [Học thiết kế và làm video Profile cá nhân bằng Power Point qua bài thực hành](https://drive.google.com/drive/folders/1UQYT8-XctqmgBEtX7DmIKnGF0qOplT3d?usp=sharing)
 > 6. [Làm báo cáo trong 15 phút với Excel Pivot](https://drive.google.com/drive/folders/18tIImG7lQf5lPBXOrGvgCC4wLNFoWu07?usp=sharing)
-## ![icons8_calculate_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-04-23-icons8_calculate_48px.png) Advanced Math
+## ![icons8_calculate_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-00-04-23-icons8_calculate_48px.png) More Course
 
 > 1. [Đại số tuyến tính](https://drive.google.com/drive/folders/1s55CcmM3XX_F0oA5l-73Q5Xm1B4B9vX1?usp=sharing)
 > 2. [Giải tích 1](https://drive.google.com/drive/folders/1mT2icDFnbTzyd2I3wKXz8Za9dg_mlgRK?usp=sharing)
